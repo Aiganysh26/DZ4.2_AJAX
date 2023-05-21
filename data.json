@@ -1,0 +1,23 @@
+[
+  {
+    "student": "Aizhamal",
+    "id": 101,
+    "Mathematics": 90,
+    "Sciencs": 80,
+    "Computer": 100
+  },
+  {
+    "student": "Aidar",
+    "id": 154,
+    "Mathematics": 87,
+    "Sciencs": 98,
+    "Computer": 50
+  },
+  {
+    "student": "Begaiym",
+    "id": 166,
+    "Mathematics": 77,
+    "Sciencs": 50,
+    "Computer": 99
+  }
+]
